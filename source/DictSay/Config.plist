@@ -12,7 +12,7 @@
 			<key>Shell Script File</key>
 			<string>dict.sh</string>
 			<key>Title</key>
-			<string>Dictionary</string>
+			<string>DictSay</string>
 		</dict>
 	</array>
 	<key>Extension Identifier</key>
